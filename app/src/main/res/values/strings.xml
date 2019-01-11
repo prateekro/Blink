@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Blink</string>
+    <string name="say_name">Say your name!</string>
+    <string name="save_notification">Save Notifications ?</string>
+    <string name="use_flash">Use Flashlight!</string>
+    <string name="said">Said!</string>
+    <string name="type_name">Type your name!</string>
+    <string name="default_name">Sven</string>
+    <string name="off">Off</string>
+    <string name="on">On</string>
+</resources>
